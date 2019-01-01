@@ -1,4 +1,4 @@
-# kodolamacz-algorithms-and-structures
+# kodolamacz.pl Algorithms and structures
 Kodołamacz challenge #3
 
 ## palindrome.py
